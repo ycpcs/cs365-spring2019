@@ -1,0 +1,4 @@
+coursename: "CS 365"
+baseurl: "/cs365-spring2019"
+markdown: kramdown
+highlighter: rouge
