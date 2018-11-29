@@ -130,8 +130,7 @@ html, body {
 }
 
 body {
-	/*background-image: url(/img/background.png);*/
-	background-image: url(/img/background2.jpg);
+	
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% auto;
@@ -220,38 +219,4 @@ dt {
 
 .sourceref {
 	font-size: 80%;
-}
-
-.topic-sc, .topic-art, .topic-mus, .topic-hum, .topic-sci, .topic-phy {
-	width: 2em;
-	display: inline-block;
-	text-align: center;
-}
-
-.topic-sc {
-	background: yellow;
-}
-
-.topic-art {
-	background: #4169E1;
-	color: white;
-}
-
-.topic-mus {
-	background: #deb887;
-}
-
-.topic-hum {
-	background: #008080;
-	color: white;
-}
-
-.topic-sci {
-	background: #cc0033;
-	color: white;
-}
-
-.topic-phy {
-	background: #9900cc;
-	color: white;
 }
