@@ -7,7 +7,7 @@ title: "Syllabus"
 
 **Spring 2019**
 
-Class time: M/W, 3:00&ndash;4:15 PM, KEC 119
+Class time: M/W, 3:00&ndash;4:15 PM, CEC 104
 
 Instructor: [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 101<br>Office hours TBD
 

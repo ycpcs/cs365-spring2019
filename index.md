@@ -5,6 +5,8 @@ title: "Home page"
 
 # Welcome to CS 365, Spring 2019!
 
+<div id="subtitle">Parallel and Distributed Computing</div>
+
 This is the web page for CS 365, Spring 2019 at York College.  All information about the course will be posted here.
 
 ## Links

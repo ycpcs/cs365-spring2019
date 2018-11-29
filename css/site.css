@@ -53,7 +53,8 @@
 #header {
 	font-size: 200%;
 	margin-top: 10px;
-	margin-bottom: 30px;
+	/*margin-bottom: 30px;*/
+	margin-bottom: 12px;
 }
 
 #header a {
@@ -140,19 +141,19 @@ h1, h2, h3 {
 	padding-left: .5em;
 	font-weight: bold;
 	background: #ccc;
-	color: #44c;
+	color: MidnightBlue;
 }
 
 h1 {
-	margin-top: 32px;
-	border-top: 2px solid #44c;
-	border-bottom: 2px solid #44c;
+	/*margin-top: 32px;*/
+	border-top: 2px solid MidnightBlue;
+	border-bottom: 2px solid MidnightBlue;
 	font-size: 180%;
 	text-align: center;
 }
 
 h2, h3 {
-	border-bottom: 1px solid #44c;
+	border-bottom: 1px solid MidnightBlue;
 }
 
 h2 {
