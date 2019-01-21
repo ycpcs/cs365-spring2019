@@ -97,3 +97,11 @@ function Reading(title) {
 }
 
 ////////////////////////////////////////////////////
+
+function LinkedReading(title, link, author) {
+    this.title = title;
+    this.link = link;
+    this.author = author;
+}
+
+////////////////////////////////////////////////////

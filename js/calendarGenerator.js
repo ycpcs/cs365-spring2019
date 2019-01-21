@@ -149,7 +149,21 @@ function getTopicString(topic) {
 
 
 function getReadingString(reading) {
-    return (reading !== undefined) ? reading : "";
+    //return (reading !== undefined) ? reading : "";
+    if (reading !== undefined) {
+        if (reading instanceof LinkedReading) {
+            // LinkedReading is useful for when the reading is a paper
+            if (reading.author) {
+                return reading.author + ", <a href=\"" + reading.link + "\">" + reading.title + "</a>";
+            } else {
+                return "<a href=\"" + reading.link + "\">" + reading.title + "</a>";
+            }
+        } else {
+            return reading;
+        }
+    } else {
+        return "";
+    }
 }
 
 
