@@ -9,7 +9,7 @@ title: "Syllabus"
 
 Class time: M/W, 3:00&ndash;4:15 PM, CEC 104
 
-Instructor: [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 101<br>Office hours TBD
+Instructor: [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 101<br>Office hours: M 9-11, T 1-2, W 11-12, Th 1-2, or by arrangement
 
 Course Description
 ------------------
