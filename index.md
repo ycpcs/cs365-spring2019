@@ -23,4 +23,4 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
-* **Jan 23** &mdash; Welcome back!
+* **Jan 23** &mdash; Welcome back! [Assignment 1](assign/assign01.html) is due Wednesday, Jan 30th by 11:59 PM.
