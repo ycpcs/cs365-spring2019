@@ -3,12 +3,12 @@ layout: default
 title: "Assignment 2: Conway's Game of Life"
 ---
 
-**Milestone 1**: Due Thursday, Feb 2nd by 11:59 PM
+**Milestone 1**: Due Wednesday, Feb 6th by 11:59 PM
 
 **Milestone 2**:
 
-* In-person demo by Friday, Feb 24th
-* Due Tuesday, Mar 21st by 11:59 PM
+* In-person demo by Monday, Feb 25th
+* Due Friday, Mar 15th by 11:59 PM
 
 *Update 2/13*: Added automated testing instructions for sequential version of the program.
 

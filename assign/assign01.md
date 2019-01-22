@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Grid datatype"
 ---
 
-**Due: Thursday, Jan 26th by 11:59 PM**
+**Due: Wednesday, Jan 30th by 11:59 PM**
 
 Grid Datatype
 =============

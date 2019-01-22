@@ -3,11 +3,7 @@ layout: default
 title: "Assignment 4: N-Body Simulation (GPU)"
 ---
 
-Due: **Friday, April 28th** by 11:59 PM
-
-*Update 4/25*: Extended the due date; mentioned incorrect comment regarding `cudaMalloc`
-
-*Update 4/25*: Mention the possibility of a one-dimensional grid
+Due: **Monday, April 15th** by 11:59 PM
 
 # Getting Started
 

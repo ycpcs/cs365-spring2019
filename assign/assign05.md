@@ -3,11 +3,11 @@ layout: default
 title: "Assignment 5: Research Project"
 ---
 
-Proposal: due **Wednesday, Apr 19th** by 11:59 PM
+Proposal: due **Wednesday, Apr 24th** by 11:59 PM
 
-Code and report: due **Friday, May 5th** by 11:59 PM
+Code and report: due **Wednesday, May 8th** by 11:59 PM
 
-Presentations: **Wednesday, May 10th, 3&ndash;5 PM**
+Presentations: **Wednesday, May 15th, 3&ndash;5 PM**
 
 Your Task
 =========
