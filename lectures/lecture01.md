@@ -114,7 +114,7 @@ Instances of structs are often allocated dynamically. For example:
 
 ```c
 struct Coord {
-    float x, y, x;
+    float x, y, z;
 };
 
 ...
