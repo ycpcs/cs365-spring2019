@@ -126,14 +126,13 @@ html {
 
 html, body {
 	margin: 0px 0px;
-	/*background: black;*/
 }
 
 body {
 	
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: 100% auto;
+	background-size: cover;
 }
 
 h1, h2, h3 {
