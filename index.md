@@ -23,4 +23,5 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
+* **Jan 28** &mdash; The due date for [Assignment 1](assign/assign01.html) has been changed to Friday, February 1st.  Also, the CS cluster head node is now reachable on campus as `cscluster.ycp.edu`.
 * **Jan 23** &mdash; Welcome back! [Assignment 1](assign/assign01.html) is due Wednesday, Jan 30th by 11:59 PM.

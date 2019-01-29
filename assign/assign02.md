@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 2: Conway's Game of Life"
 ---
 
-**Milestone 1**: Due Wednesday, Feb 6th by 11:59 PM
+**Milestone 1**: Due Friday, Feb 8th by 11:59 PM
 
 **Milestone 2**:
 
