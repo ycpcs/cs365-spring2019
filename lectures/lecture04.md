@@ -17,6 +17,10 @@ Example problem: cellular automaton to model a forest fire.
 
 > Source: <http://schuelaw.whitman.edu/JavaApplets/ForestFireApplet/>
 
+The above link no longer seems to exist, here is a similar simulation:
+
+> <http://www.shodor.org/interactivate/activities/ABetterFire/>
+
 Ideas:
 
 -   The problem space is a grid of cells of size *w* x *h*
