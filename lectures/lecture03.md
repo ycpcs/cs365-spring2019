@@ -28,7 +28,7 @@ Send a message. Messages are arrays of data elements. The recipient process is i
 Receive a message sent by another process. The sender from which the process wants to receive is identified by its rank.
 
 **MPI\_Finalize**  
-Called when the program is done and ready to clean-up any MPI-related resouces.
+Called when the program is done and ready to clean-up any MPI-related resources.
 
 Lab 1
 =====
