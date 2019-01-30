@@ -8,7 +8,7 @@ This web page contains links to some useful resources.
 MPI
 ===
 
--   [MPI API Documentation](http://www.mcs.anl.gov/research/projects/mpi/www/www3/) at Argonne National Laboratory
+-   [MPI API Documentation](https://www.mpich.org/static/docs/latest/www3/index.htm) at the [MPICH](https://www.mpich.org/) project
 
 Pthreads
 ========
