@@ -24,6 +24,7 @@ General Topic Ideas
 -   Find a parallel algorithm and implement it using pthreads, MPI, or CUDA
 -   Implement a distributed system (in which processes communicate over a network) using TCP/IP
 -   Design and implement a parallel algorithm using pthreads, MPI, or CUDA
+-   Design, configure, and benchmark a parallel computer
 
 Some Specific Ideas
 ===================
@@ -32,6 +33,7 @@ Some Specific Ideas
 -   Implement and benchmark a lock-free data structure using atomic machine instructions. See Michael Scott's [High-performance synchronization](http://www.cs.rochester.edu/wcms/research/systems/high_performance_synch/) web page.
 -   Use GPGPU computation to implement a parallel algorithm.
 -   Implement a 2-processor merge algorithm where one thread starts at the beginning of the arrays being merged, and the second thread starts at the end. Is it possible to make this faster than a sequential merge?
+-   Build a small MPI cluster using Infiniband (I have money to buy hardware!), configure it, and benchmark it
 
 It is fine for multiple people/groups to work on the same problem.
 
