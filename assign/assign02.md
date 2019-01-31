@@ -10,12 +10,6 @@ title: "Assignment 2: Conway's Game of Life"
 * In-person demo by Monday, Feb 25th
 * Due Friday, Mar 15th by 11:59 PM
 
-*Update 2/13*: Added automated testing instructions for sequential version of the program.
-
-*Update 3/6*: Due date for Milestone 2 extended to Tuesday, Mar 14th.
-
-*Update 3/16*: Due date for Milestone 2 extended to Tuesday, Mar 16th.
-
 # Conway's Game of Life
 
 Your task is to implement sequential and parallel programs to simulate [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life).
