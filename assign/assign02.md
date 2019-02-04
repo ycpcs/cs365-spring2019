@@ -128,10 +128,10 @@ Here is a transcript showing the expected output when running the sequential pro
 
 Make sure your sequential implementation produces similar output.
 
-*Update 2/13*:  You can run the 20x20 tests (described in the "Testing the parallel version" section below) on your sequential implementation using the following commands:
+You can run the 20x20 tests (described in the "Testing the parallel version" section below) on your sequential implementation using the following commands:
 
-    wget https://ycpcs.github.io/cs365-spring2017/assign/runtests.zip
-    wget https://ycpcs.github.io/cs365-spring2017/assign/runtests_seq.sh
+    wget https://ycpcs.github.io/cs365-spring2019/assign/runtests.zip
+    wget https://ycpcs.github.io/cs365-spring2019/assign/runtests_seq.sh
     unzip runtests.zip
     chmod a+x runtests_seq.sh
     ./runtests_seq.sh
@@ -158,7 +158,7 @@ would run the simulation with the initial configuration specified by **testin.da
 
 ### Parallel implementaton hints
 
-Each processor should create a grid for just its local computation, with one row/column of padding on each side for cells whose values will be computed by other processors.
+Each processor should create a grid for just its local computation, with one row/column of padding on each side for cells whose values will be computed by other processes.
 
 You may find it useful to add a **grid\_set\_current** function to your grid datatype.
 
@@ -177,7 +177,7 @@ Once the program is working well (but not before!), you can consider making the 
 
 Here is an automated test you can run.  From your `CS365_Assign02` directory, run the following commands:
 
-    wget http://ycpcs.github.io/cs365-spring2017/assign/runtests.zip
+    wget http://ycpcs.github.io/cs365-spring2019/assign/runtests.zip
     unzip runtests.zip
 
 Then, run `make`.  To test the parallel version of your program, run the command
@@ -235,7 +235,7 @@ If all goes well, the output should look like:
 
 Run the following command:
 
-    wget http://ycpcs.github.io/cs365-spring2017/assign/hugetest.zip
+    wget http://ycpcs.github.io/cs365-spring2019/assign/hugetest.zip
 
 Run `make` to make sure your code is compiled.  Then run the following commands:
 
