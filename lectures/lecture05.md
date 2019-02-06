@@ -52,7 +52,7 @@ Wouldn't it be nice if someone wrote this function for us?
 Reductions
 ==========
 
-At the end of the computation: one process must collect partial solutions, combine them into a global solutions.
+At the end of the computation: one process must collect partial solutions, combine them into a global solution.
 
 Often: global solution is constructed by applying an operation to the elements of the partial solutions (add, subtract, etc.)
 
