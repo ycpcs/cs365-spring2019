@@ -265,3 +265,5 @@ Milestone 2:
 # Submitting
 
 Run the command **make submit\_ms1** to submit Milestone 1, and the command **make submit\_ms2** to submit Milestone 2. Enter your Marmoset username and password when prompted.
+
+**Important**: After submitting your work, log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check your submitted code to make sure it is what you intended to submit.  *It is your responsibility to ensure that your work is submitted correctly.*

@@ -106,3 +106,5 @@ Submitting
 ==========
 
 To submit, run the command **make submit**. Enter your Marmoset username and password when prompted.
+
+**Important**: After submitting your work, log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check your submitted code to make sure it is what you intended to submit.  *It is your responsibility to ensure that your work is submitted correctly.*

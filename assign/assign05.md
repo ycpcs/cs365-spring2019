@@ -58,6 +58,8 @@ Upload a zip file containing your code and your report to the Marmoset server as
 
 > <https://cs.ycp.edu/marmoset/>
 
+**Important**: After submitting your work, log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check your submitted files to make sure they are what you intended to submit.  *It is your responsibility to ensure that your work is submitted correctly.*
+
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
 <!-- vim:set nolist: -->
