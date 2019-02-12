@@ -24,6 +24,7 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
+* **Feb 12** &mdash; [Lab 3](labs/lab03.html) has been updated to correct a problem with the Makefile.  See the lab description for details.
 * **Feb 8** &mdash; [Instructions for setting up OpenMPI](openmpiSetup.html) on your own computer are available.
 * **Feb 6** &mdash; Access to the cluster head node from off campus should be working now: see the [VNC through SSH](vncSshTunnel.html) instructions.
 * **Feb 4** &mdash; Don't forget that the first milestone for [Assignment 2](assign/assign02.html) is due Friday, February 8th.
