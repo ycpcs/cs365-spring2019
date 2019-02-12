@@ -8,6 +8,10 @@ Getting Started
 
 Download [CS365\_Lab03.zip](CS365_Lab03.zip) to your cluster head node account. Unzip it.  You will edit the code in `integrate.c`.
 
+*Update 2/12*: The original lab zipfile has an issue with the Makefile (the executable was not linked against the math library).  Here is a link to a corrected Makefile:
+
+> [lab03/Makefile](lab03/Makefile)
+
 Numerical Integration
 =====================
 
