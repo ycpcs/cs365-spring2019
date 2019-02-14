@@ -77,6 +77,10 @@
 	text-decoration: none;
 }
 
+#footer a:hover {
+	text-decoration: underline;
+}
+
 #footer-pad {
 	height: 10px;
 }
@@ -91,32 +95,6 @@
 /* Minor tweak to get the CC image link to align nicely with the footer text */
 a.cc-img {
 	vertical-align: -2px;
-}
-
-#topnav {
-	text-align: center;
-	padding: 4px 16px;
-}
-
-#topnav_inner {
-	margin-left: 80px;
-	margin-right: 80px;
-	line-height: 2;
-}
-
-#topnav a {
-	border: 2px solid #44c;
-	border-radius: 16px;
-	padding: 4px 12px;
-	text-decoration: none;
-	background: #99AFFF;
-	color: black;
-}
-
-#topnav a:hover {
-	background: #44c;
-	color: white;
-	border: 2px solid #44c;
 }
 
 html {
