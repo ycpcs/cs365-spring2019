@@ -7,7 +7,7 @@ title: "Assignment 2: Conway's Game of Life"
 
 **Milestone 2**:
 
-* In-person demo by Monday, Feb 25th
+* Demo by Wednesday, Feb 27th (see [Demo Expectations](#demo-expectations) below)
 * Due Friday, Mar 15th by 11:59 PM
 
 # Conway's Game of Life
@@ -243,6 +243,28 @@ Run `make` to make sure your code is compiled.  Then run the following commands:
     diff actual400.out par400.out
 
 If the `diff` command produces no output, then your parallel program produced the same output as mine on the input `huge.dat` after 400 generations of simulation.
+
+## Demo expectations
+
+Due to the snow day on Feb 20th, and Exam 1 moving to Feb 25th, the "demos" will be expected by Wednesday, Feb 27th.
+
+Because I will be leaving for a trip on Feb 26th, the demos don't need to be in person.  I would like you to send me a screenshot of your parallel program running either of the following commands in a terminal:
+
+```bash
+# first command
+./runpar demoinput.dat 15 2 1
+
+# second command
+./runpar demoinput.dat 15 1 2
+```
+
+The output should show the results of the parallel computation (final game board) after 15 generations.
+
+You will need to download the file `demoinput.dat`:
+
+```bash
+wget https://ycpcs.github.io/cs365-spring2019/assign/demoinput.dat
+```
 
 # Grading criteria
 

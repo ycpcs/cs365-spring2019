@@ -24,6 +24,7 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
+* **Feb 20** &mdash; See the updated [Demo expectations](assign/assign02.html#demo-expectations) for Assignment 2. Your "demo" does not need to be in person, and can just be a screenshot.  The demo results are expected by Wednesday, Feb 27th.
 * **Feb 20** &mdash; Due to the snow day on Feb 20th, Exam 1 will take place in class on **Monday, Feb 25th**.
 * **Feb 13** &mdash; Exam 1 will take place in class on **Wednesday, Feb 20th**.  Practice exams from [Spring 2015](https://ycpcs.github.io/cs365-spring2015/) and [Spring 2017](https://ycpcs.github.io/cs365-spring2017/) are on the [Practice Exams](practice/index.html) page.
 * **Feb 12** &mdash; [Lab 3](labs/lab03.html) has been updated to correct a problem with the Makefile.  See the lab description for details.
