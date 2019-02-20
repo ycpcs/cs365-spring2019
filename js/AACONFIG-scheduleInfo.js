@@ -42,15 +42,18 @@ courseInfo.classPeriods = [
 		lab: new Lab("No lab", "")
 	},
 	{
+		topic: new Topic("** Snow day, class is canceled", "")
+	},
+	{
 		topic: new Topic("** Exam 1", "")
+	},
+	{
+		topic: new Topic("Lab activity / work day", "")
 	},
 	{
 		topic: new Topic("Lecture 8: Introduction to pthreads", "lectures/lecture08.html"),
 		reading: "",
 		lab: new NumberedLab(6, "Pthreads", "CS365_Lab06.zip")
-	},
-	{
-		topic: new Topic("Lab activity / work day", "")
 	},
 	{
 		topic: new Topic("Lecture 9: Mutexes", "lectures/lecture09.html"),
