@@ -8,7 +8,7 @@ title: "Assignment 2: Conway's Game of Life"
 **Milestone 2**:
 
 * Demo by Wednesday, Feb 27th (see [Demo Expectations](#demo-expectations) below)
-* Due Friday, Mar 15th by 11:59 PM
+* Due Monday, Mar 18th by 11:59 PM
 
 # Conway's Game of Life
 
