@@ -187,4 +187,4 @@ void* boundedqueue_dequeue(BoundedQueue* bq)
 
 Demo: [prodcons.zip](prodcons.zip)
 
-> A fast producer thread enqueues the letters A to Z in a bounded queue which may contain up to 5 items. A slow consumer thread consumes the letters at the range of 1 per second. Because the producer is blocked when the queue is full, the producer is forced to slow down to match the rate of the consumer.
+> A fast producer thread enqueues the letters A to Z in a bounded queue which may contain up to 5 items. A slow consumer thread consumes the letters at the rate of 1 per second. Because the producer is blocked when the queue is full, the producer is forced to slow down to match the rate of the consumer.
