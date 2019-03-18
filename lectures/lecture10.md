@@ -29,7 +29,7 @@ Functions
 
 Two important criteria for correct use:
 
-1.  The condition must be checked with the mutex held Otherwise, another thread might change the shared data between the time the condition is checked and the time the thread waits.
+1.  The condition must be checked with the mutex held. Otherwise, another thread might change the shared data between the time the condition is checked and the time the thread waits.
 2.  Must be used within a loop that checks the condition:
 
 In general, a condition variable may be used for multiple conditions: just because the thread was woken up doesn't necessarily mean that the condition it is waiting for is actually true.
