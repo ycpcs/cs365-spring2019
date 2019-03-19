@@ -24,6 +24,7 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
+* **Mar 19** &mdash; The due date for [Assignment 3](assign/assign03.html) has been changed from Friday, March 31st, which doesn't exist, to **Monday, April 1st**, which does exist.
 * **Mar 12** &mdash; The due date for Milestone 2 of [Assignment 2](assign/assign02.html) has been moved to Monday, March 18th.
 * **Feb 20** &mdash; See the updated [Demo expectations](assign/assign02.html#demo-expectations) for Assignment 2. Your "demo" does not need to be in person, and can just be a screenshot.  The demo results are expected by Wednesday, Feb 27th.
 * **Feb 20** &mdash; Due to the snow day on Feb 20th, Exam 1 will take place in class on **Monday, Feb 25th**.
