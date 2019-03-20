@@ -90,6 +90,9 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(12, "Lock-free random number generator", "CS365_Lab12.zip")
 	},
 	{
+		topic: new Topic("** Exam 2", "")
+	},
+	{
 		topic: new Topic("Lecture 15: Socket Programming in C", "lectures/lecture15.html"),
 		reading: "",
 		lab: new NumberedLab(13, "Network Arithmetic Server", "CS365_Lab13.zip")
