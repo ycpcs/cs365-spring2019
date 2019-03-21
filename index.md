@@ -20,7 +20,6 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 * [VNC through SSH](vncSshTunnel.html)
 * [OpenMPI setup](openmpiSetup.html)
 * [Practice Exams](practice/index.html)
-* [Code examples](examples/index.html)
 
 ## News
 
