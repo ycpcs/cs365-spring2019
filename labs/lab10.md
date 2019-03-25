@@ -62,6 +62,10 @@ You can change the Produce and Consume times to increase the likelihood that the
 Hints
 =====
 
+Look at the Javadoc comments in the **BoundedQueue** interface: they specify how the **enqueue**, **dequeue**, and **getContents** methods are expected to behave.
+
+You may also find it useful to read the Javadoc comments in the **SimulationObserver** interface (this is the type of the **observer** object.)
+
 The **lock** field is a reference to an object that you can use as a monitor. Make sure that all accesses to shared data are made while the lock is held! The body of each public method that accesses shared data should be a **synchronized** block. The **enqueue**, **dequeue**, and **getContents** methods will all need to be synchronized in this way.
 
 The **data** field is a **LinkedList** object that you can use to store the items in the queue. The **removeFirst** and **addLast** methods will be useful for the **dequeue** and **enqueue** operations.
