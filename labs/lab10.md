@@ -6,7 +6,29 @@ title: "Lab 10: Java Producer/Consumer Simulation"
 Getting Started
 ===============
 
-On your local machine (not the cluster!), download [CS365\_Lab10.zip](CS365_Lab10.zip). Import it into your Eclipse workspace. You should see a project called **CS365\_Lab10**.
+Start by downloading [CS365\_Lab10.zip](CS365_Lab10.zip).
+
+There are two options for working on this lab: on your own laptop using Eclipse, or on the cluster.
+
+**Option 1 (your own laptop)**:  Import `CS365_Lab10.zip` into your Eclipse workspace. You should see a project called **CS365\_Lab10**.
+
+**Option 2 (on the cluster)**: Unzip `CS365_Lab10.zip`.  Change directory to `CS365_Lab10` that is created by unzipping the file.  Execute the following command in your terminal:
+
+```bash
+export PATH=/usr/local/bin:$PATH
+```
+
+Open the Java source files in the project using any text editor.  When you need to compile the code, run the following command in the terminal:
+
+```bash
+gradle build
+```
+
+When you are ready to run the simulation, execute the following command:
+
+```bash
+./run.sh
+```
 
 Your Task
 =========
