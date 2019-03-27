@@ -216,3 +216,17 @@ So, what kind of speedup do we get? Here are some benchmark results based on sor
 Not too shabby! We're getting a speedup of around 1.6 on 2 processor cores and close to 3 on 4 cores. In general, we never expect a speedup greater than the number of cores we're using.
 
 Given the relatively modest degree of effort required to parallelize this algorithm, this is a satisfying result.
+
+*Update Spring 2019*
+
+The results above are for a previous version of the Linux cluster which used 4 core CPUs.  Here are updated benchmark results for the current 8 core CPUs, showing running time and speedup for 1&ndash;8 worker threads:
+
+> ![image](figures/parMergeSort-8core.png)
+>
+> ![image](figures/parMergeSortSpeedup-8core.png)
+
+The updated benchmark shows speedups of up to 3.5.
+
+Here is the Excel file containing the results:
+
+> [fjMergeSortBenchmark.xslx](fjMergeSortBenchmark.xslx)
