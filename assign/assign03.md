@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3: N-Body Simulation"
 ---
 
-Due: **Monday, April 1st** by 11:59 PM
+Due: **Friday, April 5th** by 11:59 PM
 
 # Getting Started
 
