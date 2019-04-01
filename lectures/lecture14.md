@@ -16,7 +16,7 @@ CAS can allow threads to make atomic updates to a data structure.  A requirement
 
 Java provides access to atomic machine instructions via the java.util.concurrent.atomic.Atomic\* classes (such as **AtomicReference**, **AtomicLong**, etc.)
 
-Example lock-free algorithm: Maged Michael and Michael Scott, [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.research.ibm.com/people/m/michael/podc-1996.pdf)
+Example lock-free algorithm: Maged Michael and Michael Scott, [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](https://www.cs.rochester.edu/u/scott/papers/1996_PODC_queues.pdf)
 
 Benchmark results:
 
