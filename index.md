@@ -23,6 +23,7 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
+* **Apr 8** &mdash; The due date for [Assignment 4](assign/assign04.html) has been changed to **Wednesday, Apr 24th**.
 * **Apr 1** &mdash; Links to the programming zipfiles for Exam 2 on the [Practice Exams](practice/index.html) page have been fixed.
 * **Mar 29** &mdash; As I mentioned on Wednesday, the deadline for [Assignment 3](assign/assign03.html) has been moved to **Friday, April 5th**.
 * **Mar 21** &mdash; As I mentioned in class yesterday, the late deadline for [Assignment 2, Milestone 2](assign/assign02.html#milestone-2-parallel-computation) has been extended to **Friday, March 22nd**.
