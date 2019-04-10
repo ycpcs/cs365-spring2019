@@ -62,15 +62,6 @@ where `ptr` is a pointer variable where the address of the allocated device buff
 cudaMalloc((void**) &sim->pd_dev.x, sizeof(float) * sim->num_particles);
 ```
 
-Note that the skeleton code included the following incorrect comment:
-
-```c
-// TODO: allocate device buffers, e.g.
-//    sim->pd_dev.x = cudaMalloc(...)
-```
-
-Make sure you call `cudaMalloc` as described above, *not* as described by this comment.
-
 You will need to use the `cudaMemcpy` function to copy data between the host and device buffers.  Specifically:
 
 * Data used by the kernel function must be copied from the host buffers to the device buffers before the kernel call
