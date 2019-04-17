@@ -7,9 +7,9 @@ title: "Lab 16: CUDA Threads"
 
 This lab is a continuation of [Lab 15](../labs/lab15.html).
 
-You will need to log into `deepthought` to use the CUDA development tools and run CUDA programs:
+You will need to log into `bambleweeny` to use the CUDA development tools and run CUDA programs:
 
-    ssh deepthought
+    ssh bambleweeny
 
 # Your Task
 

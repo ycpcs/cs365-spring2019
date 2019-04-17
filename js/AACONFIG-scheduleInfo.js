@@ -110,7 +110,7 @@ courseInfo.classPeriods = [
 	{
 		topic: new Topic("Lecture 18: CUDA Threads", "lectures/lecture18.html"),
 		reading: "",
-		lab: new NumberedLab(16, "CUDA Threads", "CS365_Lab16.zip")
+		lab: new NumberedLabNoFile(16, "CUDA Threads")
 	},
 
 
