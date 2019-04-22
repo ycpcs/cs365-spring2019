@@ -112,7 +112,26 @@ courseInfo.classPeriods = [
 		reading: "",
 		lab: new NumberedLabNoFile(16, "CUDA Threads")
 	},
-
+	{
+		topic: new Topic("CUDA work day", ""),
+		reading: "",
+		lab: new Lab("No lab", "")
+	},
+	{
+		topic: new Topic("Distributed Systems", ""),
+		reading: new LinkedReading("Time, Clocks, and the Ordering of Events in a Distributed System", "http://lamport.azurewebsites.net/pubs/time-clocks.pdf", "Leslie Lamport"),
+		lab: new Lab("No lab", "")
+	},
+	{
+		topic: new Topic("Distributed Systems", ""),
+		reading: new LinkedReading("Towards Robust Distributed Systems", "https://github.com/emintham/Papers/raw/master/Brewer-%20Towards%20Robust%20Distributed%20Systems.pdf", "Eric Brewer"),
+		lab: new Lab("No lab", "")
+	},
+	{
+		topic: new Topic("Distributed Systems", ""),
+		reading: new LinkedReading("Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services", "https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf", "Seth Gilbert and Nancy Lynch"),
+		lab: new Lab("No lab", "")
+	},
 
 /*
 	{
