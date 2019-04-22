@@ -54,6 +54,13 @@ Your presentation should be no more than 8 minutes, leaving 2 minutes for Q&amp;
 Submitting
 ==========
 
+## Proposal
+
+Submit the proposal to Marmoset as **assign05\_proposal**.
+
+
+## Code and report
+
 Upload a zip file containing your code and your report to the Marmoset server as **assign05**:
 
 > <https://cs.ycp.edu/marmoset/>
