@@ -23,6 +23,7 @@ This is the web page for CS 365, Spring 2019 at York College.  All information a
 
 ## News
 
+* **Apr 26** &mdash; The due date for [Assignment 4](assign/assign04.html) has been moved to **Monday, Apr 29th**.
 * **Apr 22** &mdash; The [Schedule](schedule.html) has been updated to add some distributed systems topics.
 * **Apr 22** &mdash; The description of [Assignment 5](assign/assign05.html) has been updated to indicate how to submit the proposal.
 * **Apr 17** &mdash; The due date for [Assignment 4](assign/assign04.html) has been changed (again) to **Friday, Apr 26th**.

@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 4: N-Body Simulation (GPU)"
 ---
 
-Due: **Friday, April 26th** by 11:59 PM
+Due: **Monday, April 29th** by 11:59 PM
 
 # Getting Started
 
