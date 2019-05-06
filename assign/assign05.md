@@ -49,7 +49,7 @@ Your presentation should be organized roughly as follows:
 * Present the results of your evaluation
 * Conclusions, future work
 
-Your presentation should be no more than 8 minutes, leaving 2 minutes for Q&amp;A.  You should limit your presentation to at most 4 or 5 slides.
+Your presentation should be no more than 5 minutes, leaving 1 minutes for Q&amp;A.  You should limit your presentation to at most 4 or 5 slides.
 
 Submitting
 ==========
